@@ -245,32 +245,32 @@ annotations:
     reference: ''
     span:
       start: 45633
-      end: 46372
+      end: 46362
     note_ref: c49cb17a5d3c4f3d84c4f8e6e95b683c
   a1e13e4fc3db498696050a400f7753c6:
     imgnum: 189
     reference: ''
     span:
-      start: 46374
-      end: 48566
+      start: 46364
+      end: 48556
   b7b7151d6bb444e5b27e2fa98f658b38:
     imgnum: 190
     reference: ''
     span:
-      start: 48568
-      end: 51174
+      start: 48558
+      end: 51164
   eca87d1d46804dcbae77fb065d872e37:
     imgnum: 191
     reference: ''
     span:
-      start: 51176
-      end: 53700
+      start: 51166
+      end: 53690
   c49cb17a5d3c4f3d84c4f8e6e95b683c:
     imgnum: 192
     reference: ''
     span:
-      start: 53702
-      end: 54622
+      start: 53692
+      end: 54612
 local_ids:
   e2120e182e664b3e840455d575879fdf: 200000
   ee489dd9e0e049a2af88384396facc0b: 200001
